@@ -4,6 +4,8 @@ Case files for the [BAMFK-1](https://keeb.io/products/bamfk-1-big-switch-pcb).
 
 ## STL Files
 
+![](3D-print/case-preview.jpg)
+
 3D printable STL files have been provided for a three-piece case:
 
 - [Case Top.stl](3D-print/Case%20Top.stl) - Top piece for case (optional)
