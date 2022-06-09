@@ -18,6 +18,8 @@ The top piece is screwed in from underneath, so you will need 10 M2 screws for u
 
 It's recommended to print with the top faces of the top and bottom pieces on the print bed.
 
+![](3D-print/print-bed.png)
+
 ## Acrylic Case
 
 Files for the [acrylic case](https://keeb.io/products/bamfk-1-acrylic-case-for-big-switch) are not currently available, as they are tweaked based on manufacturer tolerances.
